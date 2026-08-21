@@ -8,8 +8,14 @@
 
 <!-- ===================== HEADER ===================== -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:005A9E&height=180&section=header&text=Matheus%20Biasi&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Microsoft%20Cloud%20%7C%20M365%20%7C%20Azure%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:005A9E&height=160&section=header&animation=fadeIn" width="100%"/>
 </a>
+
+<h1 align="center">Matheus Biasi</h1>
+<p align="center">
+  Microsoft Cloud · Microsoft 365 · Azure<br/>
+  Inteligência Artificial · Automação
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matheus-biasi-4b054b28b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -121,6 +127,6 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure, autom
 
 ---
 
-<p align="center"><i>Aberto a oportunidades em Microsoft Cloud, Microsoft 365, Azure e IA · Microsoft Learn Student Ambassadors</i></p>
+<p align="center"><i>Microsoft Learn Student Ambassadors</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005A9E,100:0078D4&height=100&section=footer" width="100%"/>
