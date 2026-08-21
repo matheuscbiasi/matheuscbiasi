@@ -47,13 +47,12 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure, autom
 ### 🏅 Certificações
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Azure_Administrator_Associate-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microsoft_365_Fundamentals-MS--900-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MatheusCapitostoBiasi-6516/D484A2B77F906E80?sharingId=C780DDD049637BB5"><img src="https://img.shields.io/badge/Azure_Administrator_Associate-AZ--104-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/MatheusCapitostoBiasi-6516/2B868BD5FE792981?sharingId=C780DDD049637BB5"><img src="https://img.shields.io/badge/Microsoft_365_Fundamentals-MS--900-D83B01?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/GitHub_Foundations-Certified-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-> 🔗 Verifique no meu [Microsoft Learn / Credly](https://www.credly.com/users/SEU-PERFIL)
-
+> 🔗 Certificações Microsoft verificáveis no meu Microsoft Credentials
 ---
 
 ### 🛠️ Stack & Tecnologias
