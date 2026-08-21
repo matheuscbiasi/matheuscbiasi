@@ -2,12 +2,13 @@
   README de perfil — Matheus Capitosto Biasi (@matheuscbiasi)
   → Vai no repositório com o MESMO nome do usuário: github.com/matheuscbiasi/matheuscbiasi
   → Substitua os placeholders: SEU-LINKEDIN, seu-email, e o link do credly.
+  → A cobrinha (snake) exige o workflow .github/workflows/snake.yml (arquivo separado que gerei).
   → NÃO publique detalhes internos de empregador (URLs de tenant, IPs, arquitetura de segurança).
 -->
 
 <!-- ===================== HEADER ===================== -->
 <a href="#">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:005A9E&height=180&section=header&text=Matheus%20Biasi&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Microsoft%20Cloud%20%7C%20Microsoft%20365%20%7C%20Azure%20%7C%20Automation&descSize=18&descAlignY=62" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0078D4,100:005A9E&height=180&section=header&text=Matheus%20Biasi&fontColor=ffffff&fontSize=42&animation=fadeIn&desc=Microsoft%20Cloud%20%7C%20M365%20%7C%20Azure%20%7C%20AI%20%7C%20Automation&descSize=18&descAlignY=62" width="100%"/>
 </a>
 
 <p align="center">
@@ -19,7 +20,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=560&lines=Microsoft+365+%26+Azure+Administrator;Cloud+%26+Automation+enthusiast;Entra+ID+%7C+PowerShell+%7C+Power+Platform;SOC+%2F+NOC+%7C+Observability+%7C+Infra"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=600&size=22&pause=1000&color=0078D4&center=true&vCenter=true&width=580&lines=Microsoft+365+%26+Azure+Administrator;Cloud+%26+Automation+enthusiast;IA+aplicada+ao+ecossistema+Microsoft;Entra+ID+%7C+PowerShell+%7C+Power+Platform;SOC+%2F+NOC+%7C+Observability+%7C+Infra"/>
   </a>
 </p>
 
@@ -27,11 +28,12 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure e automação**. Trabalho com ambientes corporativos Microsoft — administração de identidade (**Entra ID**), governança de M365, infraestrutura, e monitoramento/observabilidade (**SOC/NOC**). Estou concluindo Ciência da Computação e construindo uma carreira em **Microsoft Cloud, Dados e Automação**.
+Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure, automação e IA aplicada**. Trabalho com ambientes corporativos Microsoft — administração de identidade (**Entra ID**), governança de M365, infraestrutura, e monitoramento/observabilidade (**SOC/NOC**). Estou concluindo Ciência da Computação e construindo uma carreira em **Microsoft Cloud, Dados, Automação e Inteligência Artificial**.
 
 - 🔷 Administro e automatizo **Microsoft 365** e **Azure** em ambiente corporativo real
 - 🔐 Trabalho com **Entra ID**, segurança e monitoramento (**Wazuh · Zabbix · SOC · NOC**)
 - ⚙️ Automatizo processos com **PowerShell**, **Microsoft Graph** e **Power Platform**
+- 🤖 Aplico **IA no ambiente Microsoft** — assistentes RAG com **Azure OpenAI** e **Azure AI Search**
 - 📊 Estudando **Dados & Analytics** no ecossistema Microsoft
 - 🎯 Meta: **Cloud Engineer / Azure Administrator / M365 Administrator**
 
@@ -57,6 +59,12 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure e auto
 ![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0067B8?style=flat-square&logo=microsoft&logoColor=white)
 ![Intune](https://img.shields.io/badge/Intune-0078D4?style=flat-square&logo=microsoft&logoColor=white)
 
+**🤖 IA & Dados**  
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Azure AI](https://img.shields.io/badge/Azure_AI_Services-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Copilot](https://img.shields.io/badge/Microsoft_Copilot-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
 **⚙️ Automação & Dev**  
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Microsoft Graph](https://img.shields.io/badge/Microsoft_Graph-0078D4?style=flat-square&logo=microsoft&logoColor=white)
@@ -81,12 +89,23 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure e auto
 
 | Projeto | O que demonstra | Stack |
 |---|---|---|
-| **m365-lifecycle-automation** | Onboarding/offboarding automatizado de usuários M365 | PowerShell · Microsoft Graph |
+| **azure-openai-it-assistant** | Assistente de suporte de TI com RAG | Azure OpenAI · Azure AI Search |
+| **m365-lifecycle-automation** | Onboarding/offboarding de usuários M365 | PowerShell · Microsoft Graph |
 | **entra-access-as-code** | Conditional Access e Access Reviews versionados | Entra ID · PowerShell |
 | **azure-monitoring-lab** | Laboratório de observabilidade SOC/NOC | Wazuh · Zabbix · Bicep |
 | **powerplatform-ticketing** | Sistema de chamados (template instalável) | Power Automate · Lists · Power Apps |
 
 > *Repositórios genéricos — sem qualquer configuração interna de empregador.*
+
+---
+
+### 🐍 Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscbiasi/matheuscbiasi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuscbiasi/matheuscbiasi/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/matheuscbiasi/matheuscbiasi/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 ---
 
@@ -103,6 +122,6 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure e auto
 
 ---
 
-<p align="center"><i>Aberto a oportunidades em Microsoft Cloud, Microsoft 365 e Azure · Microsoft Learn Student Ambassadors</i></p>
+<p align="center"><i>Aberto a oportunidades em Microsoft Cloud, Microsoft 365, Azure e IA · Microsoft Learn Student Ambassadors</i></p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:005A9E,100:0078D4&height=100&section=footer" width="100%"/>
