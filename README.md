@@ -99,7 +99,6 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure, autom
 | **azure-monitoring-lab** | Laboratório de observabilidade SOC/NOC | Wazuh · Zabbix · Bicep |
 | **powerplatform-ticketing** | Sistema de chamados (template instalável) | Power Automate · Lists · Power Apps |
 
-> *Repositórios genéricos — sem qualquer configuração interna de empregador.*
 
 ---
 
