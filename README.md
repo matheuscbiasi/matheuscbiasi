@@ -12,10 +12,9 @@
 </a>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://learn.microsoft.com/pt-br/users/SEU-PERFIL"><img src="https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=matheuscbiasi&color=0078D4&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <a href="https://www.linkedin.com/in/matheus-biasi-4b054b28b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:matheus.capitosto@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://learn.microsoft.com/pt-br/users/matheuscapitostobiasi-6516/"><img src="https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white"/></a>
 </p>
 
 <p align="center">
