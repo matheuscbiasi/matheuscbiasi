@@ -102,26 +102,13 @@ Sou **Administrador de Cloud Microsoft** focado em **Microsoft 365, Azure, autom
 
 ---
 
-### 🐍 Contribuições
+###  Contribuições
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/matheuscbiasi/matheuscbiasi/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/matheuscbiasi/matheuscbiasi/output/github-contribution-grid-snake.svg"/>
   <img alt="snake animation" src="https://raw.githubusercontent.com/matheuscbiasi/matheuscbiasi/output/github-contribution-grid-snake.svg"/>
 </picture>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matheuscbiasi&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=0078D4&icon_color=0078D4&theme=transparent"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheuscbiasi&layout=compact&hide_border=true&title_color=0078D4&theme=transparent&langs_count=8"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=matheuscbiasi&hide_border=true&ring=0078D4&fire=0078D4&currStreakLabel=0078D4&theme=transparent"/>
-</p>
 
 ---
 
